@@ -35,6 +35,6 @@ This will run the script
 
 MIT
 
-**Free Software, Hell Yeah!**
+**Free Software,**
 
 
