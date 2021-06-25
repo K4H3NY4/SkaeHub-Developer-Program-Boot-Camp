@@ -2,9 +2,11 @@
 #
 
 import numpy as np
+print("Enter numbers separated by a (,) e.g. 1,2,3,4 : ")
+list_input = input()
+n = np.array(list_input)
 
-n = np.array([1, 2, 3, 4, 5])
-print("original array: ")
+
 print(n)
-print('SIze of memory occupied: ')
+print('Size of memory occupied: ')
 print('%d bytes' %(n.size * n.itemsize))
