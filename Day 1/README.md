@@ -39,12 +39,6 @@ Given a year, determine whether it is a leap year. If it is a leap year, return 
 5. Write a Python program to remove duplicates from a list.
 ```
 
-For production environments...
-
-```sh
-npm install --production
-NODE_ENV=production node app
-```
 
 
 ## Development
