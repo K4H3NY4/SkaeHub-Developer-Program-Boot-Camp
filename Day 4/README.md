@@ -54,7 +54,7 @@ PS:The iterable data type should be a list or a stringor a dictionary, etc.
 7.Write a Python program to find the maximum and minimumvalues in a given listof tuples using a lambda function.
 
 ```
-
+![Question7](https://user-images.githubusercontent.com/27253931/123510595-24b88900-d685-11eb-8e71-b42234b6a6a1.gif)
 
 
 ## Development
