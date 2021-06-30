@@ -9,3 +9,6 @@ during day 1. (15 test cases)
 ```
 ![Screenshot from 2021-06-30 23-50-28](https://user-images.githubusercontent.com/27253931/124030128-89b20d00-d9fe-11eb-9cc3-2937d7b3dd40.png)
 
+![Screenshot from 2021-06-30 23-58-04](https://user-images.githubusercontent.com/27253931/124039491-b4ef2900-da0b-11eb-815e-d4c230272c0a.png)
+
+
